@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="videos">No videos was found</string>
+    <string name="internet">Connect your device to internet</string>
+
+    <string name="basket">Basketball</string>
+    <string name="africa">Africa</string>
+    <string name="ivory">Ivory Coast</string>
+    <string name="europe">Europe</string>
+    <string name="usa">USA</string>
+    <string name="business">Business</string>
+    <string name="sports">Sports</string>
+    <string name="environment">Environment</string>
+    <string name="science">Science</string>
+    <string name="stories">Stories</string>
+    <string name="key" translatable="false">key</string>
+    <string name="theme">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="category">Category</string>
+    <string name="the">the</string>
+    <string name="guardian">guardian</string>
+    <!--  -->
+    <string name="rose">Rose theme</string>
+    <string name="default_theme">Default theme</string>
+    <string name="jamaica">Jamaica theme</string>
+
+    <string-array name="theme_entries">
+        <item>@string/rose</item>
+        <item>@string/jamaica</item>
+        <item>@string/default_theme</item>
+    </string-array>
+</resources>
